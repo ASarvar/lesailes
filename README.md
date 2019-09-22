@@ -18,10 +18,10 @@ __lesailes__
 
 :+1:
 
-#CV
+# CV
 
 
-####Sarvar Alibekov
+#### Sarvar Alibekov
 
 
 *email:* **sarvar.bakhtiyor@gmail.com**                                         *telephone:* **+998935783015**
