@@ -2,7 +2,7 @@
 # CV
 
 
-#### Sarvar Alibekov
+## Sarvar Alibekov, 26 years old (17.07.1993)
 
 
 ## Contacts
@@ -69,3 +69,4 @@
 
 * IELTS certificate 5.5 band in 2013
 * Self-learning from website [Spotlight](https://spotlightenglish.com)
+* Videos everyday from [TED] (https://www.ted.com/#/)
