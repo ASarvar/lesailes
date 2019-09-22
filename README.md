@@ -24,7 +24,8 @@ __lesailes__
 #### Sarvar Alibekov
 
 
-*email:* **sarvar.bakhtiyor@gmail.com**                                         *telephone:* **+998935783015**
+*email:* **sarvar.bakhtiyor@gmail.com**                                       
+:telephone_receiver: *telephone:* **+998935783015**
 
 
 
