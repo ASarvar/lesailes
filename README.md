@@ -75,4 +75,10 @@ _facebook:_ __[sarvar.bakhtiyor](https://www.facebook.com/sarvar.bakhtiyor)__
         
 ## Experience
 1. Website Fast Food chain Les Ailes (https://lesailes.uz)
-1. 
+1. Project Library App (https://github.com/ASarvar/libraryapp)
+
+## Education
+* Inha Unversity In Tashkent
+* Personal Development Process Academy Fullstack Web Developer course
+* Build Responsive Real World Websites with HTML5 and CSS3 course on (https://www.udemy.com)
+* Advanced CSS and Sass: Flexbox, Grid, Animations and More! courseon (https://www.udemy.com)
